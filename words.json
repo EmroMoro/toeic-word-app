@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "word": "B------- now!",
+    "meaning": "今、始めよう",
+    "example": "begin",
+    "translation": "【動】始まる、始める"
+  },
+  {
+    "id": 2,
+    "word": "I w------- as a school.",
+    "meaning": "私は学校で働いています。",
+    "example": "work",
+    "translation": "【動】働く、作業する、うまくいく 【名】仕事、作業、職場、作品"
+  },
+  {
+    "id": 3,
+    "word": "a new c-------",
+    "meaning": "新しい会社",
+    "example": "company",
+    "translation": "【名】会社"
+  },
+  {
+    "id": 4,
+    "word": "My o------- number is 600.",
+    "meaning": "私の注文番号は600です。",
+    "example": "order",
+    "translation": "【名】注文、順番 【動】注文する"
+  },
+  {
+    "id": 5,
+    "word": "an e------- of the company",
+    "meaning": "その会社の従業員",
+    "example": "employee",
+    "translation": "【名】社員、従業員"
+  },
+  {
+    "id": 6,
+    "word": "get i-------",
+    "meaning": "情報を得る",
+    "example": "information",
+    "translation": "【名】情報"
+  },
+  {
+    "id": 7,
+    "word": "r------- an e-mail",
+    "meaning": "メールを受け取る",
+    "example": "receive",
+    "translation": "【動】受け取る"
+  },
+  {
+    "id": 8,
+    "word": "The event will l------- three days.",
+    "meaning": "そのイベントは3日間続きます。",
+    "example": "last",
+    "translation": "【動】続く 【形】この前の、最後の"
+  },
+  {
+    "id": 9,
+    "word": "I n------- some help.",
+    "meaning": "助けが必要です。",
+    "example": "need",
+    "translation": "【動】～を必要とする、～する必要がある 【名】必要性、ニーズ"
+  },
+  {
+    "id": 10,
+    "word": "read a t------- guide",
+    "meaning": "旅行ガイドを読む",
+    "example": "travel",
+    "translation": "【名】旅、出張 【動】旅する、出張する"
+  },
+  {
+    "id": 11,
+    "word": "I like my j-------.",
+    "meaning": "私は自分の仕事が好きです。",
+    "example": "job",
+    "translation": "【名】仕事"
+  },
+  {
+    "id": 12,
+    "word": "I need to f------- a job.",
+    "meaning": "私は仕事を見つける必要がある。",
+    "example": "find",
+    "translation": "【動】見つける、思う"
+  },
+  {
+    "id": 13,
+    "word": "There are 30 people in my d-------.",
+    "meaning": "私の部署には30名います。",
+    "example": "department",
+    "translation": "【名】部、部署、売り場"
+  },
+  {
+    "id": 14,
+    "word": "L------- me check.",
+    "meaning": "確認させてください。",
+    "example": "let",
+    "translation": "【動】～させる"
+  },
+  {
+    "id": 15,
+    "word": "v------- a museum",
+    "meaning": "博物館を訪れる",
+    "example": "visit",
+    "translation": "【動】訪れる 【名】訪問"
+  },
+  {
+    "id": 16,
+    "word": "You can a------- order online.",
+    "meaning": "オンラインでも注文できます。",
+    "example": "also",
+    "translation": "【副】～もまた"
+  },
+  {
+    "id": 17,
+    "word": "I'm not s-------.",
+    "meaning": "確かではありません。",
+    "example": "sure",
+    "translation": "【形】確かな、必ず 【副】もちろん"
+  },
+  {
+    "id": 18,
+    "word": "The train will l------- at 8 P.M.",
+    "meaning": "その電車は午後８時に出発します。",
+    "example": "leave",
+    "translation": "【動】出発する、残す、辞める、～のままにする 【名】休暇"
+  },
+  {
+    "id": 19,
+    "word": "He is a s------- manager.",
+    "meaning": "彼は営業マネージャーです。",
+    "example": "sales",
+    "translation": "【名】営業、売り上げ"
+  },
+  {
+    "id": 20,
+    "word": "I've just m-------d here.",
+    "meaning": "私はここに引っ越してきたばかりです。",
+    "example": "move",
+    "translation": "【動】動かす、動く、引っ越す 【名】動き、引っ越し"
+  },
+  {
+    "id": 21,
+    "word": "They a-------d in Tokyo yesterday.",
+    "meaning": "彼らは昨日東京に到着しました。",
+    "example": "arrive",
+    "translation": "【動】到着する、届く"
+  },
+  {
+    "id": 22,
+    "word": "h------- an event",
+    "meaning": "イベントを行う",
+    "example": "hold",
+    "translation": "【動】（イベントを）行う、手に持つ"
+  },
+  {
+    "id": 23,
+    "word": "I'll r------- on Wednesday.",
+    "meaning": "私は水曜日に戻ります。",
+    "example": "return",
+    "translation": "【動】戻る、戻す 【名】戻ること、戻すこと 【形】戻りの"
+  },
+  {
+    "id": 24,
+    "word": "the o------- of a store",
+    "meaning": "お店のオープン",
+    "example": "opening",
+    "translation": "【名】（店などの）オープン、仕事の空き 【形】オープニングの"
+  },
+  {
+    "id": 25,
+    "word": "He should be here s-------.",
+    "meaning": "彼はもうすぐここに来るはずです。",
+    "example": "soon",
+    "translation": "【副】もうすぐ"
+  },
+  {
+    "id": 26,
+    "word": "Please s------- here.",
+    "meaning": "ここに署名してください。",
+    "example": "sign",
+    "translation": "【動】署名する 【名】標識、看板"
+  },
+  {
+    "id": 27,
+    "word": "I was a------- to find the restaurant.",
+    "meaning": "私はそのレストランを見つけることができました。",
+    "example": "able",
+    "translation": "【形】できる"
+  },
+  {
+    "id": 28,
+    "word": "I have a f------- minutes.",
+    "meaning": "数分時間があります。",
+    "example": "few",
+    "translation": "【形】少数の、少しの 【代】少数"
+  },
+  {
+    "id": 29,
+    "word": "I'll p------- with a credit card.",
+    "meaning": "私はクレジットカードで支払います。",
+    "example": "pay",
+    "translation": "【動】支払う 【名】給料"
+  },
+  {
+    "id": 30,
+    "word": "He is on a business t-------.",
+    "meaning": "彼は出張中です。",
+    "example": "trip",
+    "translation": "【名】出張、旅行"
+  },
+  {
+    "id": 31,
+    "word": "Why did you s------- your car?",
+    "meaning": "なぜ車を売ったのですか。",
+    "example": "sell",
+    "translation": "【動】売る、売れる"
+  },
+  {
+    "id": 32,
+    "word": "We have offices in s------- countries.",
+    "meaning": "当社はいくつかの国にオフィスがあります。",
+    "example": "several",
+    "translation": "【形】いくつかの、数名の 【代】数値、数名"
+  },
+  {
+    "id": 33,
+    "word": "I'm happy to h------- that.",
+    "meaning": "それを聞いてうれしく思います。",
+    "example": "hear",
+    "translation": "【動】聞く"
+  },
+  {
+    "id": 34,
+    "word": "I'm s------- in the office.",
+    "meaning": "私はまだオフィスにいます。",
+    "example": "still",
+    "translation": "【副】まだ、依然として、それでもなお"
+  },
+  {
+    "id": 35,
+    "word": "I'll call you l-------.",
+    "meaning": "あとでお電話します。",
+    "example": "later",
+    "translation": "【副】あとで 【形】あとの"
+  },
+  {
+    "id": 36,
+    "word": "shop at a d------- store",
+    "meaning": "違う店で買い物をする",
+    "example": "different",
+    "translation": "【形】異なる、違う"
+  },
+  {
+    "id": 37,
+    "word": "The hotel is c------- to the airport.",
+    "meaning": "そのホテルは空港に近い。",
+    "example": "close",
+    "translation": "【形】近い 【動】閉める、閉まる"
+  },
+  {
+    "id": 38,
+    "word": "I s-------ed at a hotel in Tokyo.",
+    "meaning": "私は東京のホテルに滞在しました。",
+    "example": "stay",
+    "translation": "【動】滞在する、とどまる、～のままでいる 【名】滞在"
+  },
+  {
+    "id": 39,
+    "word": "I have a------- seen the movie.",
+    "meaning": "私はすでにその映画を見ました。",
+    "example": "already",
+    "translation": "【副】すでに"
+  },
+  {
+    "id": 40,
+    "word": "p------- a prize",
+    "meaning": "賞品を贈呈する",
+    "example": "present",
+    "translation": "【動】与える、示す 【名】プレゼント、現在 【形】現在の、その場にいる"
+  },
+  {
+    "id": 41,
+    "word": "visit a f-------",
+    "meaning": "工場を訪れる",
+    "example": "factory",
+    "translation": "【名】工場"
+  },
+  {
+    "id": 42,
+    "word": "I am i------- in the job.",
+    "meaning": "私はその仕事に興味があります。",
+    "example": "interested",
+    "translation": "【形】興味がある"
+  },
+  {
+    "id": 43,
+    "word": "The table is c-------ed with a cloth.",
+    "meaning": "テーブルが布で覆われている。",
+    "example": "cover",
+    "translation": "【動】覆う、報道する、含む、扱う 【名】カバー、表紙"
+  },
+  {
+    "id": 44,
+    "word": "c------- a book",
+    "meaning": "本を選ぶ",
+    "example": "choose",
+    "translation": "【動】選ぶ"
+  },
+  {
+    "id": 45,
+    "word": "move to a new a-------",
+    "meaning": "新しいアパートに引っ越す",
+    "example": "apartment",
+    "translation": "【名】アパート、マンション"
+  },
+  {
+    "id": 46,
+    "word": "She's filing some p-------s.",
+    "meaning": "彼女は書類をファイルしている。",
+    "example": "paper",
+    "translation": "【名】書類、紙"
+  },
+  {
+    "id": 47,
+    "word": "Please n------- that the schedule may change.",
+    "meaning": "スケジュールは変更の可能性がありますのでご注意ください。",
+    "example": "note",
+    "translation": "【動】注意する、述べる 【名】メモ、注記"
+  },
+  {
+    "id": 48,
+    "word": "b------- lunch and dinner",
+    "meaning": "ランチもディナーも両方とも",
+    "example": "both",
+    "translation": "【接】両方とも 【形】両方の 【代】両方 【副】両方ともに"
+  },
+  {
+    "id": 49,
+    "word": "e------- coffee or tea",
+    "meaning": "コーヒーか紅茶のどちらか",
+    "example": "either",
+    "translation": "【接】どちらか 【形】どちらかの 【代】どちらも 【副】～もない"
+  },
+  {
+    "id": 50,
+    "word": "N------- Tex nor Masaya can speak Chinese.",
+    "meaning": "テックスもマサヤも中国語を話せません。",
+    "example": "neither",
+    "translation": "【接】【形】【代】【副】どちらも～ない"
+  },
+  {
+    "id": 51,
+    "word": "The restaurant opened four years a-------.",
+    "meaning": "そのレストランは4年前にオープンしました。",
+    "example": "ago",
+    "translation": "【副】前に"
+  },
+  {
+    "id": 52,
+    "word": "Have you f-------ed reading the book?",
+    "meaning": "その本はもう読み終わりましたか。",
+    "example": "finish",
+    "translation": "【動】終える、終わる"
+  },
+  {
+    "id": 53,
+    "word": "I h------- to see you soon.",
+    "meaning": "あなたに近々お会いできることを願っています。",
+    "example": "hope",
+    "translation": "【動】願う、望む、期待する 【名】希望"
+  },
+  {
+    "id": 54,
+    "word": "p------- of a plan",
+    "meaning": "計画の一部",
+    "example": "part",
+    "translation": "【名】一部、部分、部品"
+  },
+  {
+    "id": 55,
+    "word": "I have an i------- meeting on Wednesday.",
+    "meaning": "私は水曜日に重要な会議があります。",
+    "example": "important",
+    "translation": "【形】重要な"
+  },
+  {
+    "id": 56,
+    "word": "m------- a coupon",
+    "meaning": "クーポンを郵送する",
+    "example": "mail",
+    "translation": "【動】郵送する 【名】郵便物、郵便配達"
+  },
+  {
+    "id": 57,
+    "word": "o------- a week",
+    "meaning": "週に一度",
+    "example": "once",
+    "translation": "【副】一度、かつて 【接】いったん～したらすぐに"
+  },
+  {
+    "id": 58,
+    "word": "The event will r------- until December 30.",
+    "meaning": "イベントは12月30日まで続きます。",
+    "example": "run",
+    "translation": "【動】続く、運営する、作動させる、走る"
+  },
+  {
+    "id": 59,
+    "word": "b------- an umbrella",
+    "meaning": "傘を持ってくる",
+    "example": "bring",
+    "translation": "【動】持ってくる、連れてくる、連れて行く"
+  },
+  {
+    "id": 60,
+    "word": "p------- an order",
+    "meaning": "注文を出す",
+    "example": "place",
+    "translation": "【動】（注文や広告などを）出す、置く 【名】場所"
+  },
+  {
+    "id": 61,
+    "word": "She hopes to b------- a doctor.",
+    "meaning": "彼女は医者になりたいと願っている。",
+    "example": "become",
+    "translation": "【動】～になる"
+  },
+  {
+    "id": 62,
+    "word": "Are you r------- to order?",
+    "meaning": "ご注文の準備はできていますか。",
+    "example": "ready",
+    "translation": "【形】準備ができて"
+  },
+  {
+    "id": 63,
+    "word": "Our stores are c------- on weekends.",
+    "meaning": "当店は週末は閉まっています。",
+    "example": "closed",
+    "translation": "【形】閉まっている"
+  },
+  {
+    "id": 64,
+    "word": "e------- a room",
+    "meaning": "部屋に入る",
+    "example": "enter",
+    "translation": "【動】入る、入力する、エントリーする"
+  },
+  {
+    "id": 65,
+    "word": "What will h------- tomorrow?",
+    "meaning": "明日何が起きますか。",
+    "example": "happen",
+    "translation": "【動】起こる"
+  },
+  {
+    "id": 66,
+    "word": "c------- service",
+    "meaning": "顧客サービス",
+    "example": "customer",
+    "translation": "【名】顧客"
+  },
+  {
+    "id": 67,
+    "word": "over the p------- three years",
+    "meaning": "過去3年間に渡って",
+    "example": "past",
+    "translation": "【形】過去の 【名】過去 【前】～を過ぎて"
+  },
+  {
+    "id": 68,
+    "word": "We went to the s------- university.",
+    "meaning": "私たちは同じ大学に通っていた。",
+    "example": "same",
+    "translation": "【形】同じ 【代】同じもの（人）"
+  },
+  {
+    "id": 69,
+    "word": "Thanks for coming e-------.",
+    "meaning": "早く来てくださってありがとうございます。",
+    "example": "early",
+    "translation": "【副】早く 【形】早い"
+  },
+  {
+    "id": 70,
+    "word": "j------- a company",
+    "meaning": "会社に加わる",
+    "example": "join",
+    "translation": "【動】加わる、参加する"
+  },
+  {
+    "id": 71,
+    "word": "I d-------d to leave the company.",
+    "meaning": "会社を辞めることに決めました。",
+    "example": "decide",
+    "translation": "【動】決める"
+  },
+  {
+    "id": 72,
+    "word": "He's watering p-------s in a garden.",
+    "meaning": "彼は庭で植物に水をやっている。",
+    "example": "plant",
+    "translation": "【名】植物、工場 【動】植える"
+  },
+  {
+    "id": 73,
+    "word": "We are p------- to welcome Mr.Kato.",
+    "meaning": "加藤さんを喜んで歓迎いたします。",
+    "example": "pleased",
+    "translation": "【形】喜んで、満足して"
+  },
+  {
+    "id": 74,
+    "word": "The room is not big e-------.",
+    "meaning": "その部屋は大きさが十分ではありません。",
+    "example": "enough",
+    "translation": "【副】十分に 【形】十分な 【代】十分"
+  },
+  {
+    "id": 75,
+    "word": "go to see a f-------",
+    "meaning": "映画を観に行く",
+    "example": "film",
+    "translation": "【名】映画 【動】映画を撮影する"
+  },
+  {
+    "id": 76,
+    "word": "in that c-------",
+    "meaning": "その場合には",
+    "example": "case",
+    "translation": "【名】場合、ケース"
+  },
+  {
+    "id": 77,
+    "word": "eat a m-------",
+    "meaning": "食事をとる",
+    "example": "meal",
+    "translation": "【名】食事"
+  },
+  {
+    "id": 78,
+    "word": "s------- from the sales team",
+    "meaning": "営業チームの誰か",
+    "example": "someone",
+    "translation": "【代】誰か"
+  },
+  {
+    "id": 79,
+    "word": "Tex is a------- late for work.",
+    "meaning": "テックスはいつも仕事に遅刻している。",
+    "example": "always",
+    "translation": "【副】いつも"
+  },
+  {
+    "id": 80,
+    "word": "She's holding a p------- of paper.",
+    "meaning": "彼女は1枚の紙を手に持っている。",
+    "example": "piece",
+    "translation": "【名】1個、1つ、作品、記事"
+  },
+  {
+    "id": 81,
+    "word": "I always c------- a pen with me.",
+    "meaning": "私はいつもペンを持ち歩いています。",
+    "example": "carry",
+    "translation": "【動】持ち運ぶ、携行する、（商品を）扱う"
+  },
+  {
+    "id": 82,
+    "word": "s------- an order",
+    "meaning": "注文品を出荷する",
+    "example": "ship",
+    "translation": "【動】出荷する 【名】船"
+  },
+  {
+    "id": 83,
+    "word": "I've been trying to r------- you.",
+    "meaning": "あなたに連絡を取ろうとしていました。",
+    "example": "reach",
+    "translation": "【動】連絡を取る、情報を伝える、達する"
+  },
+  {
+    "id": 84,
+    "word": "I r------- seeing her.",
+    "meaning": "彼女に会ったことは覚えています。",
+    "example": "remember",
+    "translation": "【動】覚えている、思い出す、忘れずに～する"
+  },
+  {
+    "id": 85,
+    "word": "in the f------- of medicine",
+    "meaning": "薬の分野で",
+    "example": "field",
+    "translation": "【名】分野、野原"
+  },
+  {
+    "id": 86,
+    "word": "Do you have any vegetarian d-------es?",
+    "meaning": "ベジタリアン向けの料理はありますか。",
+    "example": "dish",
+    "translation": "【名】料理、皿"
+  },
+  {
+    "id": 87,
+    "word": "p------- pictures on the Internet",
+    "meaning": "インターネットに写真を投稿する",
+    "example": "post",
+    "translation": "【動】提示する、投稿する 【名】郵便（物）、柱"
+  },
+  {
+    "id": 88,
+    "word": "That s-------s great.",
+    "meaning": "それはいいですね（いいように思える）。",
+    "example": "sound",
+    "translation": "【動】（見聞きして）～のように思える 【名】音"
+  },
+  {
+    "id": 89,
+    "word": "Let's take a lunch b-------.",
+    "meaning": "昼食休憩を取りましょう。",
+    "example": "break",
+    "translation": "【名】休憩 【動】壊す、壊れる"
+  },
+  {
+    "id": 90,
+    "word": "The copy machine s-------s to be broken.",
+    "meaning": "コピー機が壊れているようです。",
+    "example": "seem",
+    "translation": "【動】～のように思える"
+  },
+  {
+    "id": 91,
+    "word": "b------- a school",
+    "meaning": "学校を建てる",
+    "example": "build",
+    "translation": "【動】建てる、築く"
+  },
+  {
+    "id": 92,
+    "word": "order the n------- parts",
+    "meaning": "必要な部品を注文する",
+    "example": "necessary",
+    "translation": "【形】必要な"
+  },
+  {
+    "id": 93,
+    "word": "I can't b------- it.",
+    "meaning": "信じられません。",
+    "example": "believe",
+    "translation": "【動】信じる、きっと～だと思う"
+  },
+  {
+    "id": 94,
+    "word": "Our business is g-------ing.",
+    "meaning": "我々のビジネスは成長しています。",
+    "example": "grow",
+    "translation": "【動】成長する、伸びる、育てる"
+  },
+  {
+    "id": 95,
+    "word": "I'm not sure, t-------.",
+    "meaning": "でも、確かではありません。",
+    "example": "though",
+    "translation": "【副】だけど 【接】～にもかかわらず"
+  },
+  {
+    "id": 96,
+    "word": "What k------- of business is Tex Corporation.",
+    "meaning": "テックス社はどんな種類の会社ですか。",
+    "example": "kind",
+    "translation": "【名】種類 【形】親切な"
+  },
+  {
+    "id": 97,
+    "word": "I m-------ed the train.",
+    "meaning": "私は電車を逃した。",
+    "example": "miss",
+    "translation": "【動】逃す、いなくてさびしく思う"
+  },
+  {
+    "id": 98,
+    "word": "How did you s------- your vacation?",
+    "meaning": "休暇はどのように過ごしましたか。",
+    "example": "spend",
+    "translation": "【動】（お金や時間を）使う、費やす、（時間を）過ごす"
+  },
+  {
+    "id": 99,
+    "word": "I'm very b-------.",
+    "meaning": "私はとても忙しい。",
+    "example": "busy",
+    "translation": "【形】忙しい、混んでいる"
+  },
+  {
+    "id": 100,
+    "word": "s------- time and money",
+    "meaning": "時間とお金を節約する",
+    "example": "save",
+    "translation": "【動】節約する、保存する、取っておく"
+  }
+]

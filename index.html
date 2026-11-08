@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TOEIC英単語アプリ</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
+    meta name="theme-color" content="#0078d4">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>TOEIC英単語アプリ</h1>
+
+    <button id="themeBtn">
+        🌙 ダークモード切替
+    </button>
+
+    <div class="card">
+
+        <h2 id="word"></h2>
+
+        <p id="meaning"></p>
+
+        <hr>
+
+        <p id="example" class="hidden"></p>
+
+        <p id="translation" class="hidden"></p>
+
+        <button id="showBtn">
+            答えを見る
+        </button>
+
+        <div class="buttons">
+            <button id="knownBtn">
+                覚えた
+            </button>
+
+            <button id="unknownBtn">
+                まだ覚えていない
+            </button>
+            <button id="nextBtn">
+                次の単語へ ▶
+            </button>
+        </div>
+
+    </div>
+
+    <div class="progress">
+        覚えた単語数：
+        <span id="count">0</span>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>

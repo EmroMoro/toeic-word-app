@@ -1,0 +1,129 @@
+:root {
+    --bg-color: #f5f5f5;
+    --card-color: #ffffff;
+    --text-color: #333333;
+}
+
+body.dark {
+    --bg-color: #1e1e1e;
+    --card-color: #2d2d2d;
+    --text-color: #ffffff;
+}
+
+body {
+    font-family: sans-serif;
+    background: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    padding: 30px;
+    transition: 0.3s;
+}
+
+.container {
+    width: 100%;
+    max-width: 700px;
+    margin: auto;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.card {
+    background: var(--card-color);
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 2px 8px rgba(0,0,0,.2);
+}
+
+#word {
+    font-size: clamp(28px, 8vw, 36px);
+    word-break: break-word;
+}
+
+#meaning {
+    font-size: 22px;
+    color: #0078d4;
+}
+
+#example {
+    margin-top: 15px;
+    font-size: 18px;
+}
+
+#translation {
+    color: #999;
+}
+
+.hidden {
+    display: none;
+}
+
+button {
+    width: 100%;
+    padding: 14px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+    border-radius: 8px;
+    font-size: 16px;
+}
+
+#showBtn {
+    background: #0078d4;
+    color: white;
+}
+
+#knownBtn {
+    background: #28a745;
+    color: white;
+}
+
+#unknownBtn {
+    background: #dc3545;
+    color: white;
+}
+
+#themeBtn {
+    margin-bottom: 20px;
+}
+
+#nextBtn {
+    background: #6c757d;
+    color: white;
+}
+
+.progress {
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+@media (max-width: 768px) {
+
+    body {
+        padding: 10px;
+    }
+
+    .card {
+        padding: 15px;
+    }
+
+    #word {
+        font-size: 30px;
+    }
+
+    #meaning {
+        font-size: 18px;
+    }
+
+    #example {
+        font-size: 16px;
+    }
+
+    #translation {
+        font-size: 15px;
+    }
+
+    .progress {
+        text-align: center;
+        font-size: 16px;
+    }
+}
