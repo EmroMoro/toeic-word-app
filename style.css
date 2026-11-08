@@ -41,7 +41,7 @@ body {
 
 #meaning {
     font-size: 22px;
-    color: #0078d4;
+    color: var(--text-color);
 }
 
 #example {
